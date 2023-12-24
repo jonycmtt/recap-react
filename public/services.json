@@ -1,0 +1,38 @@
+[
+  {
+    "service_id": 1,
+    "service_name": "Web Development",
+    "description": "Crafting responsive and user-friendly websites using the latest technologies. From static sites to dynamic web applications, we've got you covered.",
+    "price": 799.99
+  },
+  {
+    "service_id": 2,
+    "service_name": "Mobile App Development",
+    "description": "Building feature-rich mobile applications for iOS and Android platforms. We bring your app ideas to life with elegant design and robust functionality.",
+    "price": 1499.99
+  },
+  {
+    "service_id": 3,
+    "service_name": "Database Design and Optimization",
+    "description": "Designing efficient and scalable databases tailored to your application's needs. We optimize existing databases for improved performance.",
+    "price": 999.99
+  },
+  {
+    "service_id": 4,
+    "service_name": "Custom Software Development",
+    "description": "Developing customized software solutions to address your unique business challenges. Our team ensures seamless integration and user satisfaction.",
+    "price": 1999.99
+  },
+  {
+    "service_id": 5,
+    "service_name": "Code Review and Refactoring",
+    "description": "Thorough code reviews to identify and fix potential issues. We also specialize in refactoring code for improved maintainability and performance.",
+    "price": 599.99
+  },
+  {
+    "service_id": 6,
+    "service_name": "Technical Consultation",
+    "description": "Expert guidance on technical aspects of your projects. Whether you need advice on architecture, technology stack, or problem-solving, we're here to help.",
+    "price": 149.99
+  }
+]
